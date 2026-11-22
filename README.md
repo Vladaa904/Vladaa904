@@ -1,16 +1,32 @@
-## Hi there 👋
+Привет! Я Владлена Гоглачева 👋
 
-<!--
-**Vladaa904/Vladaa904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior SOC Analyst / Junior Information Security Engineer**  
+📍 Екатеринбург | 🎓 4 курс УГК им. И. И. Ползунова (10.02.05 «Обеспечение информационной безопасности автоматизированных систем»)
 
-Here are some ideas to get you started:
+Ищу стажировку, официальную производственную практику (с января 2027) или позицию младшего специалиста в направлениях SOC / Blue Team или Инженер ИБ. Имею практический опыт при выполнении лабораторных работ системного администрирования, настройки сетевой защиты и базового реагирования на инциденты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ Навыки и стек технологий
+
+Информационная безопасность и SOC:
+* Мониторинг и анализ: Базовые навыки реагирования на инциденты , анализ уязвимостей веб-приложений по методологии **OWASP Top 10** (IAAA Failures).
+* СЗИ и криптография: Развертывание и настройка СЗИ НСД Secret Net Studio на виртуальных машинах, работа с ПАК «КриптоПро УЦ», управление сертификатами и ЭЦП.
+* Нормативная база: Понимание требований ФЗ-152, ФЗ-187 (КИИ) и руководящих документов ФСТЭК России.
+
+Системное администрирование и сети:
+* ОС и службы каталогов: Windows Server (2008 R2, 2016) — настройка Active Directory, групповых политик, служб удаленных рабочих столов (RDS); администрирование Astra Linux на виртуальной машине.
+* Сети: Стек TCP/IP, модель OSI, настройка маршрутизации, NAT, VLAN и безопасного удаленного доступа на оборудовании MikroTik.
+* Серверное железо: Конфигурирование RAID-массивов (HP ProLiant, Smart Array, 3ware), удаленное управление через iLO 4.
+
+🎯 Практика и обучение
+
+* TryHackMe: Прохожу практические модули по защите и анализу (Intro to LAN, Linux Fundamentals, Defensive Security Intro, OWASP Top 10).  
+  https://tryhackme.com/p/VladlenaGoglacheva
+* Опыт работы (Системный администратор): Базовая настройка серверной инфраструктуры, сетевого оборудования MikroTik и политик безопасности Windows.
+
+ 📫 Как со мной связаться
+
+* Telegram: @Vladochka_aaaa
+* Email: vlada_goglacheva@vk.com
+* Резюме на hh.ru: https://ekaterinburg.hh.ru/resume/535c5156ff10731b230039ed1f664766644a70?hhtmFrom=main&print=true
+  
+
